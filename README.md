@@ -30,4 +30,4 @@ Run:
 - If SQLite is not found, the game still runs, and shows a helpful message in High Scores.
 
 Enjoy 👾
-(c) Yahia Saad
+## (c) Yahia Saad
