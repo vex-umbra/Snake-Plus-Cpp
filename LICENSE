@@ -1,132 +1,86 @@
-First Stand Studio Proprietary License v1.0
+# Проприетарная лицензия First Stand Studio v1.0
 
-Copyright (c) 2026 Yahia Saad / First Stand Studio.
-All rights reserved.
+Copyright (c) 2026 VexUmbra / First Stand Studio.
+Все права защищены.
 
-1. Scope and Ownership
+## 1. Область действия и право собственности
 
-This repository, including without limitation its source code, design, layout,
-copy, media, branding, visual identity, documentation, and derivative material
-prepared by or for the copyright holder, is proprietary and protected by
-applicable copyright and intellectual property laws, as well as international
-treaties, including the Berne Convention for the Protection of Literary and
-Artistic Works and the WIPO Copyright Treaty, where applicable.
+Настоящий репозиторий, включая, помимо прочего, исходный код, дизайн, макет, тексты, медиафайлы, элементы брендинга, визуальную идентичность, документацию и производные материалы, подготовленные правообладателем или по его поручению, является проприетарной собственностью и защищается применимым законодательством об авторских правах и интеллектуальной собственности, а также международными договорами, включая, где применимо, Бернскую конвенцию об охране литературных и художественных произведений и Договор ВОИС по авторскому праву.
 
-All right, title, and interest in and to the repository remain exclusively with
-Yahia Saad / First Stand Studio, except for third-party materials that are
-expressly identified as being subject to their own licenses.
+Все права, титул и интересы в отношении репозитория остаются исключительно за Yahia Saad / First Stand Studio, за исключением сторонних материалов, которые прямо обозначены как подпадающие под действие собственных лицензий.
 
-2. No Open-Source Grant
+## 2. Отсутствие предоставления прав на условиях открытого исходного кода
 
-This repository is source-available only for limited review under the terms of
-this license. It is not open-source software. No permission is granted except
-as expressly stated in this license. Any right not expressly granted is
-reserved.
+Настоящий репозиторий предоставляется исключительно в виде доступного для просмотра исходного кода для ограниченного ознакомления в соответствии с условиями настоящей лицензии. Он не является программным обеспечением с открытым исходным кодом (open-source). Никакие права не предоставляются, кроме прямо указанных в настоящей лицензии. Все права, которые прямо не предоставлены, сохраняются за правообладателем.
 
-3. Limited Permission
+## 3. Ограниченное разрешение
 
-Subject to full compliance with this license, you may:
+При условии полного соблюдения настоящей лицензии вам разрешается:
 
-- View the repository and its contents for personal review.
-- Retain one private copy solely for backup or private evaluation.
-- Quote small, non-substantial excerpts only when required for commentary,
-  review, or reporting that is otherwise permitted by applicable law.
+* Просматривать репозиторий и его содержимое в личных целях.
+* Хранить одну личную копию исключительно для резервного копирования или частичной частной оценки.
+* Цитировать небольшие, несущественные фрагменты исключительно в случаях, когда это необходимо для комментариев, обзоров или публикаций, разрешённых применимым законодательством.
 
-No broader right to use, reproduce, modify, publish, distribute, sublicense, or
-commercialize any part of the repository is granted.
+Никаких более широких прав на использование, воспроизведение, изменение, публикацию, распространение, сублицензирование или коммерциализацию какой-либо части репозитория не предоставляется.
 
-4. Prohibited Conduct
+## 4. Запрещённые действия
 
-Without prior express written permission from Yahia Saad / First Stand Studio,
-you may not, directly or indirectly:
+Без предварительного явно выраженного письменного разрешения Yahia Saad / First Stand Studio вам прямо запрещается, как непосредственно, так и косвенно:
 
-- Copy, reproduce, republish, upload, post, transmit, or distribute the
-  repository or any substantial part of it.
-- Modify, adapt, translate, reverse engineer into a competing implementation,
-  or create derivative works based on the repository.
-- Sell, license, lease, rent, sublicense, monetize, or otherwise exploit the
-  repository for commercial or business purposes.
-- Re-upload, mirror, or redistribute the repository in whole or in substantial
-  part on GitHub, GitLab, websites, archives, packages, templates, courses,
-  marketplaces, or similar services.
-- Use the repository or any substantial portion of it in client work, freelance
-  work, internal business systems, commercial products, SaaS, or paid services.
-- Remove, alter, obscure, or bypass any copyright notice, ownership notice,
-  branding, attribution, watermark, or license notice.
-- Use the name "First Stand Studio", "Yahia Saad", related marks, or confusingly
-  similar names, marks, or branding in a way that implies authorship,
-  endorsement, association, or origin.
-- Use the repository to train, fine-tune, evaluate, or improve machine
-  learning, generative AI, code generation, or dataset systems, or include the
-  repository in any dataset, benchmark, corpus, or model-training pipeline.
-- Use the repository to build, market, or support a competing project, service,
-  framework, template, or product derived from this work.
+* Копировать, воспроизводить, переиздавать, загружать, размещать, передавать или распространять репозиторий либо его существенную часть.
+* Изменять, адаптировать, переводить, осуществлять обратную разработку с целью создания конкурирующей реализации либо создавать производные произведения на основе репозитория.
+* Продавать, лицензировать, сдавать в аренду, предоставлять во временное пользование, сублицензировать, монетизировать или иным образом коммерчески либо деловым образом эксплуатировать репозиторий.
+* Повторно загружать, зеркалировать или распространять репозиторий полностью либо в существенной части на GitHub, GitLab, веб-сайтах, в архивах, пакетах, шаблонах, курсах, маркетплейсах или аналогичных сервисах.
+* Использовать репозиторий или его существенную часть в клиентских проектах, фриланс-работах, внутренних бизнес-системах, коммерческих продуктах, SaaS-сервисах или платных услугах.
+* Удалять, изменять, скрывать или обходить уведомления об авторских правах, уведомления о праве собственности, элементы брендинга, указания об авторстве, водяные знаки или уведомления о лицензии.
+* Использовать наименование «First Stand Studio», «Yahia Saad», связанные с ними товарные знаки либо сходные до степени смешения наименования, знаки или элементы брендинга таким образом, который может создавать впечатление авторства, одобрения, связи или происхождения.
+* Использовать репозиторий для обучения, дообучения, оценки или улучшения систем машинного обучения, генеративного ИИ, генерации кода или систем обработки наборов данных, а также включать репозиторий в какой-либо набор данных, бенчмарк, корпус или конвейер обучения моделей.
+* Использовать репозиторий для создания, продвижения или поддержки конкурирующего проекта, сервиса, фреймворка, шаблона или продукта, созданного на основе данной работы.
 
-5. Forks and Platform Copies
+## 5. Форки и копии, создаваемые платформами
 
-Any fork, mirror, cache, or platform-generated copy permitted by the mechanics
-of a hosting service remains subject to this license. Technical ability to fork
-or clone does not create permission to use, publish, distribute, or exploit the
-repository beyond the limited rights expressly granted here.
+Любой форк, зеркальная копия, кэш или копия, автоматически создаваемая платформой в силу технических механизмов хостингового сервиса, по-прежнему подпадает под действие настоящей лицензии. Техническая возможность выполнить fork или clone не создаёт разрешения на использование, публикацию, распространение или коммерческую эксплуатацию репозитория сверх ограниченных прав, прямо предоставленных настоящей лицензией.
 
-6. Third-Party Components
+## 6. Сторонние компоненты
 
-Third-party dependencies, packages, fonts, images, libraries, or other
-materials included in or referenced by the repository may be subject to their
-own license terms. This license applies only to the rights owned by Yahia Saad /
-First Stand Studio and does not replace or override third-party license
-obligations.
+Сторонние зависимости, пакеты, шрифты, изображения, библиотеки или иные материалы, включённые в репозиторий или на которые в нём имеются ссылки, могут регулироваться условиями собственных лицензий. Настоящая лицензия распространяется только на права, принадлежащие Yahia Saad / First Stand Studio, и не заменяет и не отменяет обязательства, установленные лицензиями третьих сторон.
 
-7. Attribution and Notices
+## 7. Атрибуция и уведомления
 
-If the copyright holder grants written permission for any exceptional use, all
-copyright, ownership, authorship, and license notices must be preserved exactly
-as provided unless the copyright holder expressly authorizes otherwise in
-writing.
+Если правообладатель предоставляет письменное разрешение на какое-либо исключительное использование, все уведомления об авторских правах, праве собственности, авторстве и лицензии должны сохраняться в точности в том виде, в котором они были предоставлены, если только правообладатель прямо не разрешит иное в письменной форме.
 
-8. Enforcement and Remedies
+## 8. Обеспечение соблюдения и средства правовой защиты
 
-Any use of the repository outside the permissions granted by this license is
-unauthorized and constitutes infringement to the maximum extent permitted by
-applicable law.
+Любое использование репозитория за пределами разрешений, предоставленных настоящей лицензией, является несанкционированным и представляет собой нарушение прав в максимально допустимой применимым законодательством степени.
 
-The copyright holder reserves all legal and equitable remedies, including
-without limitation:
+Правообладатель сохраняет за собой все предусмотренные законом и правом справедливости средства правовой защиты, включая, помимо прочего:
 
-- Requests for immediate removal or takedown.
-- Revocation of any previously granted permission.
-- Cease-and-desist demands.
-- Claims for injunctive relief.
-- Claims for damages, profits, costs, and attorneys' fees where recoverable.
-- Submission of copyright infringement notices, including DMCA notices on
-  supported platforms where applicable.
+* Требования о немедленном удалении или прекращении размещения материала.
+* Отзыв любого ранее предоставленного разрешения.
+* Направление требований о прекращении нарушения (cease-and-desist).
+* Требования о принятии обеспечительных и запретительных мер.
+* Требования о возмещении убытков, взыскании прибыли, расходов и гонораров адвокатов в случаях, когда такое возмещение допускается законом.
+* Направление уведомлений о нарушении авторских прав, включая уведомления DMCA на поддерживаемых платформах, где это применимо.
 
-9. Disclaimer
+## 9. Отказ от гарантий
 
-The repository is provided "AS IS", without warranty of any kind, express or
-implied, including without limitation warranties of merchantability, fitness
-for a particular purpose, title, non-infringement, availability, or accuracy.
+Репозиторий предоставляется «КАК ЕСТЬ» (AS IS), без каких-либо гарантий, явных или подразумеваемых, включая, помимо прочего, гарантии товарной пригодности, пригодности для определённой цели, наличия правового титула, отсутствия нарушения прав третьих лиц, доступности или точности.
 
-10. No Waiver
+## 10. Отсутствие отказа от прав
 
-Failure to enforce any provision of this license does not constitute a waiver of
-that provision or any other right.
+Невыполнение или неосуществление права по любому положению настоящей лицензии не означает отказа от этого положения или от какого-либо другого права.
 
-11. Severability
+## 11. Делимость положений
 
-If any provision of this license is held unenforceable, the remaining
-provisions shall remain in effect to the fullest extent permitted by applicable
-law.
+Если какое-либо положение настоящей лицензии будет признано неисполнимым или недействительным, остальные положения сохраняют силу в максимально допустимой применимым законодательством степени.
 
-12. Contact for Written Permission
+## 12. Контакт для получения письменного разрешения
 
-For licensing requests, commercial authorization, or written permission, contact
-the copyright holder directly:
+По вопросам лицензирования, коммерческого разрешения или получения письменного разрешения обращайтесь непосредственно к правообладателю:
 
 Yahia Saad
-yahiasaad.work@gmail.com
+[yahiasaad.work@gmail.com](mailto:yahiasaad.work@gmail.com)
 
-13. Non-Waivable Rights
+## 13. Неотчуждаемые права
 
-Nothing in this license is intended to limit any non-waivable rights,
-limitations, or exceptions that may apply under applicable law.
+Ни одно положение настоящей лицензии не направлено на ограничение каких-либо неотчуждаемых прав, ограничений или исключений, которые могут применяться в соответствии с действующим законодательством.
